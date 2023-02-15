@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int main(void) {
+int main(voi) {
   cout << "Hello, World\n";
   cout << "Hello, Jenkins\n";
   cout << "The One Piece Exists! \n";

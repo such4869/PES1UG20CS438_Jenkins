@@ -6,6 +6,6 @@ int main(void) {
   cout << "Hello, World\n";
   cout << "Hello, Jenkins\n";
   cout << "The One Piece Exists! \n";
-  cout << "I have successfully built and run\n";
+  cout << "One Piece\n";
   return 0;
 }

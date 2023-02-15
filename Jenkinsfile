@@ -18,7 +18,6 @@ pipeline{
           echo 'Deployed'
         }
       }
-    }
     post{
       failure{
         echo 'Pipeline failed'
